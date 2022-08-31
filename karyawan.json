@@ -1,0 +1,53 @@
+{
+  "data-karyawan": [
+    {
+      "id": 1557298991816,
+      "nama_karyawan": "allen saputra",
+      "jabatan": "Security",
+      "jenis_kelamin": "laki-laki",
+      "tanggal_lahir": "1993-12-08"
+    },
+    {
+      "id": 1537298993816,
+      "nama_karyawan": "satria",
+      "jabatan": "Marketing",
+      "jenis_kelamin": "laki-laki",
+      "tanggal_lahir": "1990-12-12"
+    },
+    {
+      "id": 1557298963816,
+      "nama_karyawan": "putra agung",
+      "jabatan": "Security",
+      "jenis_kelamin": "laki-laki",
+      "tanggal_lahir": "1991-12-12"
+    },
+    {
+      "id": 1557298993816,
+      "nama_karyawan": "gerysena",
+      "jabatan": "Marketing",
+      "jenis_kelamin": "laki-laki",
+      "tanggal_lahir": "2011-01-31"
+    },
+    {
+      "id": 1661930405452,
+      "nama_karyawan": "Riki Arizona2",
+      "jabatan": "Software Enginner2",
+      "jenis_kelamin": "Laki-Laki",
+      "tanggal_lahir": "1990-09-27"
+    },
+    {
+      "id": 1661930889574,
+      "nama_karyawan": "Dwi Cahya Janprasiwi",
+      "jabatan": "Guru",
+      "jenis_kelamin": "Perempuan",
+      "tanggal_lahir": "1990-01-16"
+    },
+    {
+      "id": 1661931181111,
+      "nama_karyawan": "afafafawfawfawfaw",
+      "jabatan": "afwawfafawfawfafa",
+      "jenis_kelamin": "awfawfawfawfawfawf",
+      "tanggal_lahir": "2024-06-11"
+    }
+  ]
+}
